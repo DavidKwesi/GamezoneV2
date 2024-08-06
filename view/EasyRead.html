@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"/>
+    <link rel="stylesheet" href="../css/EasyReadStyle.css"/>
+<title>
+MindSync EasyReading
+</title>
+</head>
+
+<body>
+
+    <h1>Why Ananse Has Eight Thin Legs</h1>
+
+    <div>
+    <p>Once upon a time, a long time ago, there lived a spider named Anansi. Anansi's wife was a very good cook. But always, Anansi loved to taste the food that others in the village made for themselves and for their families.</p>
+
+   <p>One day, he stopped by Rabbit's house. Rabbit was his good friend.</p>
+
+   <p>"There are greens in your pot," cried Anansi excitedly. Anansi loved greens.</p>
+
+   <p>"They are not quite done," said Rabbit. "But they will be soon. Stay and eat with me."</p>
+
+   <p>"I would love to, Rabbit, but I have some things to do," Anansi said hurriedly. If he waited at Rabbit's house, Rabbit would certainly give him jobs to do. "I know," said Anansi. "I'll spin a web. I'll tie one end around my leg and one end to your pot. When the greens are done, tug on the web, and I'll come running!"</p>
+
+   <p>Rabbit thought that was a great idea. And so it was done.</p>
+
+   <p>"I smell beans," Anansi sniffed excitedly as he ambled along. "Delicious beans, cooking in a pot."</p>
+
+   <p>"Come eat our beans with us," cried the monkeys. "They are almost done."</p>
+
+   <p>"I would love to Father Monkey," said Anansi. And again, Anansi suggested he spin a web, with one end tied around his leg, and one end tied to the big bean pot.</p>
+
+   <p>Father Monkey thought that was a great idea. All his children thought so, too. And so it was done.</p>
+
+   <p>"I smell sweet potatoes," Anansi sniffed happily as he ambled along. "Sweet potatoes and honey, I do believe!"</p>
+
+   <p>"Anansi," called his friend Hog. "My pot is full of sweet potatoes and honey! Come share my food with me."</p>
+
+   <p>"I would love to," said Anansi. And again, Anansi suggested he spin a web, with one end tied around his leg, and one end tied to the sweet potato pot.</p>
+
+   <p>His friend Hog thought that was a great idea. And so it was done.</p>
+
+   <p>By the time Anansi arrived at the river, he had one web tied to each of his eight legs.</p>
+
+   <p>"This was a wonderful idea," Anansi told himself proudly. "I wonder whose pot will be ready first?"</p>
+ 
+   <p>Just then, Anansi felt a tug at his leg. "Ah," said Anansi. "That is the web string tied to Rabbit's greens." He felt another. And another. Anansi was pulled three ways at once.</p>
+
+   <p>"Oh dear," said Anansi as he felt the fourth web string pull.</p>
+
+   <p>Just then, he felt the fifth web string tug. And the sixth. And the seventh. And the eighth. Anansi was pulled this way and that way, as everyone pulled on the web strings at once. His legs were pulled thinner and thinner. Anansi rolled and tugged himself into the river. When all the webs had washed away, Anansi pulled himself painfully up on shore.</p>
+
+   <p>"Oh my, oh my," sighed Anansi. "Perhaps that was not such a good idea after all."</p>
+
+   <p> To this day, Anansi the Spider has eight very thin legs. And he never got any food that day at all</p>
+    
+   <b>-THE END</b>
+    </div>
+
+    
+    <div style="margin-left:540px;" id="timer">00:00:00</div>
+   
+    <div class="input-box">
+        <button class="btn" id="loginButton" type="button"onclick="redirectToEasyQuizpage()">FINISHED</button>
+    </div>
+ 
+    <script src="../js/EasyReadScript.js"></script>
+
+
+
+
+
+
+</body>
+
+</html>
