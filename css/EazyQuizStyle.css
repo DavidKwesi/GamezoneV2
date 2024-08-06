@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin:10px;
+    padding:0;
+    border:none;
+    outline:none;
+    box-sizing: border-box;
+    font-family: "poppins";
+    color:#143447;
+}
+
+body{
+    background:white;
+}
+
+
+
+
+
+button:hover {
+    background-color: #0056b3;
+    color:gold;
+  }
+  
+
+.backbutton{
+    position: relative;
+    width:80%;
+    height:45px;
+    margin-left:100px;
+    margin-bottom:40px;
+    margin-top:20px;
+    background: gold;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    border: 2px solid gold;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.backbtn::before{
+    content:"";
+    position:absolute;
+    height:300%;
+    width:100%;
+    background: linear-gradient(gold, #143447,gold, #143447);
+    top:-100%;
+    left:0;
+    z-index:-1;
+    transition: .5s;
+}
+
+.backbtn:hover:before{
+    top:0;
+}
